@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-pm5
+Exec=harbour-pm5
+Name=PM5
+
+[X-Sailjail]
+OrganizationName=org.pm5
+ApplicationName=pm5
+Permissions=UserDirs
