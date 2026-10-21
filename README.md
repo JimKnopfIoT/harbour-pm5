@@ -20,6 +20,8 @@ format on new firmware and the legacy MIX format on old firmware.
 
     mb2 --target <sailfish-target> build
 
+AI assisted development
+
 ## License
 
 GPLv3. See `LICENSE`.
